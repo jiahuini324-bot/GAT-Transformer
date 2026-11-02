@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+type: software
+title: "Physics-informed GAT-Transformer for residual displacement prediction"
+authors:
+  - family-names: Ni
+    given-names: Jia-Hui
+  - family-names: Gan
+    given-names: Yi-Ping
+  - family-names: Li
+    given-names: Rui-Ran
+  - family-names: Liang
+    given-names: Shi-Lin
+  - family-names: Yang
+    given-names: Bo-Kun
+  - family-names: Yu
+    given-names: Jun
+preferred-citation:
+  type: article
+  title: "Physics-informed Graph Attention-Transformer networks for multi-scale residual displacement prediction in progressive collapse of RC frames"
+  authors:
+    - family-names: Ni
+      given-names: Jia-Hui
+    - family-names: Gan
+      given-names: Yi-Ping
+    - family-names: Li
+      given-names: Rui-Ran
+    - family-names: Liang
+      given-names: Shi-Lin
+    - family-names: Yang
+      given-names: Bo-Kun
+    - family-names: Yu
+      given-names: Jun
+  journal: Advanced Engineering Informatics
+  volume: 77
+  start: "105334"
+  year: 2027
+  doi: 10.1016/j.aei.2026.105334
