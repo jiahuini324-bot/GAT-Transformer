@@ -1,0 +1,47 @@
+{
+  "name": "example_01",
+  "plan": "rectangular",
+  "stories": 3,
+  "bays_x": 3,
+  "bays_y": 3,
+  "total_height_m": 11.798888360236955,
+  "plan_length_x_m": 21.4037717296297,
+  "plan_length_y_m": 18.46012701470116,
+  "removed_columns": [
+    {
+      "source": 15,
+      "target": 31,
+      "source_node_id": 1015,
+      "target_node_id": 1031
+    }
+  ],
+  "simulation_end_time_s": 6.0,
+  "result_time_s": 5.9998868,
+  "result_quantity": "terminal_nodal_displacement",
+  "result_unit": "m",
+  "target_scale_m": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "graph_nodes": 64,
+  "graph_connections": 174,
+  "directed_graph_edges": 348,
+  "connections_by_type": {
+    "column": 48,
+    "beam": 72,
+    "slab_diagonal": 54
+  },
+  "keyword_cards": 1156,
+  "fe_nodes": 3352,
+  "beam_elements": 948,
+  "shell_elements": 1944,
+  "beam_column_element_length_range_m": [
+    0.561850999999999,
+    0.7927330000000001
+  ],
+  "shell_edge_length_range_m": [
+    0.769171,
+    0.7927330000000001
+  ]
+}
